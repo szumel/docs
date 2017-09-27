@@ -1,0 +1,11 @@
+<magento2>
+    <config env="dev">
+        <mode>production</mode>
+        <locales>
+            <locale>de_DE</locale>
+            <locale>en_US</locale>
+            <locale>pl_PL</locale>
+        </locales>
+    </config>
+</magento2>
+

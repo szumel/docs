@@ -1,0 +1,17 @@
+dev:
+  script:
+    - pwd
+    - sudo /home/gitlab-runner/release dev
+  only:
+    - develop
+  tags:
+    - poligon
+staging:
+  script:
+    - pwd
+    - sudo /home/gitlab-runner/release staging
+  only:
+    - staging
+  tags:
+    - poligon
+

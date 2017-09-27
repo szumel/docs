@@ -1,0 +1,21 @@
+<configPool>
+    <config>
+        <releaser>magento2</releaser>
+        <projectPath>/home/project</projectPath>
+        <maintenancePage>/home/maintenance</maintenancePage>
+        <preserve>
+            <item>app/etc/env.php</item>
+            <item>app/etc/config.php</item>
+            <item>pub/media</item>
+        </preserve>
+        <permissions>
+            <uid>1007</uid>
+            <gid>1009</gid>
+            <user>diclo</user>
+            <group>www-data</group>
+        </permissions>
+        <environment>dev</environment>
+    </config>
+</configPool>
+
+
