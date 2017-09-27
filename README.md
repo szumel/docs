@@ -13,7 +13,13 @@ See deployment for notes on how to deploy the project on a live system.
 
 See environments for notes what environments exist and how to use them.
 
-## 1. Built With
+## Table of contents
+1. [Built With](#1-built-with)
+2. [Running the tests](#2-running-the-tests)
+3. [Versioning](#3-versioning)
+4. [Evironments](#4-environments)
+
+##1. Built With
 * [Magento2](https://developer.magento.com/) - platform
 * [Composer](https://getcomposer.org/) - dependency management
 * [PSR rules](http://www.php-fig.org/psr/)
