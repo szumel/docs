@@ -13,12 +13,12 @@ See deployment for notes on how to deploy the project on a live system.
 
 See environments for notes what environments exist and how to use them.
 
-## Built With
+## 1. Built With
 * [Magento2](https://developer.magento.com/) - platform
 * [Composer](https://getcomposer.org/) - dependency management
 * [PSR rules](http://www.php-fig.org/psr/)
 
-### Installing
+### 1.1 Installing
 All dependencies related to M2 can be found:
 ```
 http://devdocs.magento.com/guides/v2.1/install-gde/system-requirements-tech.html
@@ -31,11 +31,11 @@ Configure local DNS and  web server.
 
 Database and database user must be created.
 
-## Running the tests
+## 2. Running the tests
 
 This project is not test driven.
 
-## Versioning
+## 3. Versioning
 
 GIT is used for version management.
 
@@ -44,7 +44,7 @@ GIT is used for version management.
 3. feature - feature development branch
 4. release - representing features bundle in stable state
 
-#### Development
+#### 3.1 Development
 
 Workflow: 
 1. Feature
@@ -63,7 +63,7 @@ git merge --no-ff feature-1
 git push origin develop
 ---END DEVELOPMENT---
 ```
-#### Deployment
+#### 3.2 Deployment
 
 1. Release 
 
@@ -85,8 +85,8 @@ git tag 0.1
 git push origin master --tags
 ---END DEPLOYMENT---
 ```
-## Environments
-### Test
+## 4. Environments
+### 4.1 Test
 Url - http://test.subdomain.com
 
 ##### Autorelease
@@ -100,10 +100,10 @@ Compilation is enabled.
 
 [config](m2release.xml)
 
-### Staging
+### 4.2 Staging
 
 Staging exists but it is unstable.
 
-### Production
+### 4.3 Production
 
 Not yet specified.
