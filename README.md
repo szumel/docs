@@ -19,7 +19,7 @@ See environments for notes what environments exist and how to use them.
 3. [Versioning](#3-versioning)
 4. [Evironments](#4-environments)
 
-##1. Built With
+## 1. Built With
 * [Magento2](https://developer.magento.com/) - platform
 * [Composer](https://getcomposer.org/) - dependency management
 * [PSR rules](http://www.php-fig.org/psr/)
