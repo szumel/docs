@@ -17,7 +17,7 @@ See environments for notes what environments exist and how to use them.
 1. [Built With](#1-built-with)
 2. [Running the tests](#2-running-the-tests)
 3. [Versioning](#3-versioning)
-4. [Evironments](#4-environments)
+4. [Environments](#4-environments)
 
 ## 1. Built With
 * [Magento2](https://developer.magento.com/) - platform
