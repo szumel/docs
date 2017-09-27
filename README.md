@@ -59,7 +59,7 @@ GIT is used for version management.
 3. feature - feature development branch
 4. release - representing features bundle in stable state
 
-#### 3.1 Development
+### 3.1 Development
 
 Workflow: 
 1. Feature
@@ -78,7 +78,7 @@ git merge --no-ff feature-1
 git push origin develop
 ---END DEVELOPMENT---
 ```
-#### 3.2 Deployment
+### 3.2 Deployment
 
 1. Release 
 
