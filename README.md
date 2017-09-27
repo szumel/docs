@@ -15,9 +15,15 @@ See environments for notes what environments exist and how to use them.
 
 ## Table of contents
 1. [Built With](#1-built-with)
+    1. [Installing](#11-installing)
 2. [Running the tests](#2-running-the-tests)
 3. [Versioning](#3-versioning)
+    1. [Development](#31-development)
+    2. [Deployment](#32-deployment)
 4. [Environments](#4-environments)
+    1. [Test](#41-test)
+    2. [Staging](#42-staging)
+    3. [Production](#43-production)
 
 ## 1. Built With
 * [Magento2](https://developer.magento.com/) - platform
