@@ -15,7 +15,8 @@ See environments for notes what environments exist and how to use them.
 
 ## Table of contents
 1. [Built With](#1-built-with)
-    1. [Installing](#11-installing)
+    1. [Requirements](#11-requirements)
+    2. [Installing](#12-installing)
 2. [Running the tests](#2-running-the-tests)
 3. [Versioning](#3-versioning)
     1. [Development](#31-development)
@@ -30,11 +31,13 @@ See environments for notes what environments exist and how to use them.
 * [Composer](https://getcomposer.org/) - dependency management
 * [PSR rules](http://www.php-fig.org/psr/)
 
-### 1.1 Installing
+### 1.1 Requirements
+
 All dependencies related to M2 can be found:
 ```
 http://devdocs.magento.com/guides/v2.1/install-gde/system-requirements-tech.html
 ```
+### 1.2 Installing
 
 Installing dependencies is related to OS 
 e.g. on Debian and Ubuntu - apt tool could be used.
